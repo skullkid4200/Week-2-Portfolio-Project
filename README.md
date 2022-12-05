@@ -10,17 +10,25 @@ N/A
 
 ## Usage
 
-The website is fully accessible but doesn't allow you to do much. Future updates may add additional pages or a way to contact the company. 
+Website allows you to navigate to different sections via the nav menu at the top. You can also navigate to different webpages to see deployed applications by clicking on the thumbails in the "Work" Section. Currently, only one of these is active. 
 
 ## Credits
 
-N/A
+Jack Einhorn
 
 ## Screenshots
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
 
-![Horiseon webpage displaying semantic elements and alternative text in the HTML](./Develop/assets/images/horiseonedtit.png)
+![Screenshot of first third of website](./assets/images/screenshotofwebsite.png)
+
+![Screenshot of second third of website](./assets/images/screenshotofwebsite2.png)
+
+![Screenshot of bottom of website](./assets/images/screenshotofwebsite3.png)
+
+
+DEPLOYED LINK TO APPLICATION:
+
+https://skullkid4200.github.io/Week-2-Portfolio-Project/
 
 ## License
 
