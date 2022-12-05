@@ -1,9 +1,76 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <title>A simple HTML document</title>
+    <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
 </head>
+
+
 <body>
-    <p>Hello World!<p>
+    <header>
+        <h1>Jack Einhorn</h1>
+        <ul>
+            <li><a href="#About Me">About Me</a></li>
+            <li><a href="#Work">Work</a></li>
+            <li><a href="#footer">Contact Me</a></li>
+            <li><a href="#Resume">Resume</a></li>
+        </ul>
+    </header>
+
+
+    <div class="subtitle">
+        Coding Portfolio
+    </div>
+
+    <main>
+        <section class="column">
+            <div id="About Me">
+                About Me
+            </div>
+            <div id="Work">
+                Work
+            </div>
+            <div id="Resume">
+                Resume
+            </div>
+        </section>
+
+        <section class="card">
+            <header>Camera</header>
+            <img src="./assets/images/camera.jpg" alt="camera" />
+            <p>Price: $300</p>
+        </section>
+        <section class="card">
+            <header>Tablet</header>
+            <img src="./assets/images/tablet.jpg" alt="tablet" />
+            <p>Price: $150</p>
+        </section>
+        <section class="card">
+            <header>Toilet Paper</header>
+            <img src="./assets/images/toilet-paper.jpg" alt="toilet paper" />
+            <p>Price: $30</p>
+        </section>
+        <section class="card">
+            <header>Wooden Spoons</header>
+            <img src="./assets/images/wooden-spoons.jpg" alt="wooden spoons" />
+            <p>Price: $10</p>
+        </section>
+        <section class="card">
+            <header>Soap</header>
+            <img src="./assets/images/soap.jpg" alt="soap" />
+            <p>Price: $5</p>
+        </section>
+        <section class="card">
+            <header>Spinning Top</header>
+            <img src="./assets/images/spinning-top.jpg" alt="spinning top" />
+            <p>Price: $3</p>
+        </section>
+    </main>
+
+    <footer id="footer">
+        <h2>Contact Me:</h2>
+    </footer>
 </body>
+
 </html>
